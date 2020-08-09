@@ -9,3 +9,7 @@
 - [Azure DevOps update to configure deployment strategies from the Azure portal](https://www.razorspoint.com/2020/05/07/azure-devops-update-to-configure-deployment-strategies-from-the-azure-portal/)
 - [Azure DevOps Sprint Update: Cross Staging Variables supported natively](https://www.razorspoint.com/2020/05/05/azure-devops-sprint-update-cross-staging-variables-supported-natively/)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+[![Sebastian Schützes github stats](https://github-readme-stats.vercel.app/api?username=SebastianSchuetze)]
