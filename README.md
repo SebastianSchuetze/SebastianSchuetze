@@ -14,11 +14,11 @@ Azure Nerd with focus on DevOps and AzureDevOps 🚀
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure Pipelines announces the general availability of scale-set agents](https://www.razorspoint.com/2020/09/11/azure-pipelines-announces-the-general-availability-of-scale-set-agents/)
 - [Azure DevOps Artifacts storage exploration](https://www.razorspoint.com/2020/08/17/azure-devops-artifacts-storage-exploration/)
 - [Azure Meetup: AMA with Donovan Brown and Abel Wang online](https://www.razorspoint.com/2020/08/15/azure-meetup-ama-with-donovan-brown-and-abel-wang-online/)
 - [How Permissions with Azure DevOps and it’s API work](https://www.razorspoint.com/2020/08/11/how-permissions-with-azure-devops-and-its-api-work/)
 - [How to Get Notified of Azure DevOps Sprint Updates](https://www.razorspoint.com/2020/06/12/how-to-get-notified-of-azure-devops-sprint-updates/)
-- [Azure DevOps Services now simplifies Azure Artifacts integration with other services](https://www.razorspoint.com/2020/06/08/azure-devops-services-now-simplifies-azure-artifacts-integration-with-other-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
