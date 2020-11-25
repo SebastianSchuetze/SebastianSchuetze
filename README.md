@@ -14,11 +14,11 @@ Azure Nerd with focus on DevOps and AzureDevOps 🚀
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure Boards – Delivery Plans 2.0 is now in preview](https://www.razorspoint.com/2020/11/23/azure-boards-delivery-plans-2-0-is-now-in-preview/)
 - [Latest Azure Meetup Berlin Recording: 7 Habits every Azure Admin must have!](https://www.razorspoint.com/2020/10/17/latest-azure-meetup-berlin-recording-7-habits-every-azure-admin-must-have/)
 - [Azure Repos adds a default branch at the org-level](https://www.razorspoint.com/2020/10/07/azure-repos-adds-a-default-branch-at-the-org-level/)
 - [Azure Pipelines announces the general availability of scale-set agents](https://www.razorspoint.com/2020/09/11/azure-pipelines-announces-the-general-availability-of-scale-set-agents/)
 - [Azure DevOps Artifacts storage exploration](https://www.razorspoint.com/2020/08/17/azure-devops-artifacts-storage-exploration/)
-- [Azure Meetup: AMA with Donovan Brown and Abel Wang online](https://www.razorspoint.com/2020/08/15/azure-meetup-ama-with-donovan-brown-and-abel-wang-online/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
