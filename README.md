@@ -14,11 +14,11 @@ Azure Nerd with focus on DevOps and AzureDevOps 🚀
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Public preview: Application Insights work item integration for Azure DevOps & GitHub](https://www.razorspoint.com/2021/02/17/public-preview-application-insights-work-item-integration-for-azure-devops-github/)
 - [Azure Repos – New enhancements to pull request experience](https://www.razorspoint.com/2020/12/09/azure-repos-new-enhancements-to-pull-request-experience/)
 - [Azure Boards – Delivery Plans 2.0 is now in preview](https://www.razorspoint.com/2020/11/23/azure-boards-delivery-plans-2-0-is-now-in-preview/)
 - [Latest Azure Meetup Berlin Recording: 7 Habits every Azure Admin must have!](https://www.razorspoint.com/2020/10/17/latest-azure-meetup-berlin-recording-7-habits-every-azure-admin-must-have/)
 - [Azure Repos adds a default branch at the org-level](https://www.razorspoint.com/2020/10/07/azure-repos-adds-a-default-branch-at-the-org-level/)
-- [Azure Pipelines announces the general availability of scale-set agents](https://www.razorspoint.com/2020/09/11/azure-pipelines-announces-the-general-availability-of-scale-set-agents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
