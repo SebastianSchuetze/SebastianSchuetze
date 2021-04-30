@@ -14,11 +14,11 @@ Azure Nerd with focus on DevOps and AzureDevOps 🚀
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [General availability: Application Insights work item integration in Azure Monitor](https://www.razorspoint.com/2021/04/28/general-availability-application-insights-work-item-integration-in-azure-monitor/)
 - [General availability: Changes coming to Azure Pipelines free grants](https://www.razorspoint.com/2021/03/30/general-availability-changes-coming-to-azure-pipelines-free-grants/)
 - [Public preview: Application Insights work item integration for Azure DevOps & GitHub](https://www.razorspoint.com/2021/02/17/public-preview-application-insights-work-item-integration-for-azure-devops-github/)
 - [Azure Repos – New enhancements to pull request experience](https://www.razorspoint.com/2020/12/09/azure-repos-new-enhancements-to-pull-request-experience/)
 - [Azure Boards – Delivery Plans 2.0 is now in preview](https://www.razorspoint.com/2020/11/23/azure-boards-delivery-plans-2-0-is-now-in-preview/)
-- [Latest Azure Meetup Berlin Recording: 7 Habits every Azure Admin must have!](https://www.razorspoint.com/2020/10/17/latest-azure-meetup-berlin-recording-7-habits-every-azure-admin-must-have/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
