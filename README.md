@@ -14,11 +14,11 @@ Azure Nerd with focus on DevOps and AzureDevOps 🚀
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [General availability: Azure DevOps August 2021 updates](https://www.razorspoint.com/2021/09/02/general-availability-azure-devops-august-2021-updates/)
 - [General availability: Azure DevOps updates for June 2021](https://www.razorspoint.com/2021/06/24/general-availability-azure-devops-updates-for-june-2021/)
 - [General availability: Azure DevOps Delivery Plans 2.0](https://www.razorspoint.com/2021/06/09/general-availability-azure-devops-delivery-plans-2-0/)
 - [General availability: Azure DevOps updates for May 2021](https://www.razorspoint.com/2021/05/11/general-availability-azure-devops-updates-for-may-2021/)
 - [General availability: Application Insights work item integration in Azure Monitor](https://www.razorspoint.com/2021/04/28/general-availability-application-insights-work-item-integration-in-azure-monitor/)
-- [General availability: Changes coming to Azure Pipelines free grants](https://www.razorspoint.com/2021/03/30/general-availability-changes-coming-to-azure-pipelines-free-grants/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
