@@ -14,11 +14,11 @@ Azure Nerd with focus on DevOps and AzureDevOps 🚀
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scalable Container Based Azure Pipelines Pools with Azure Container Apps](https://www.razorspoint.com/2021/11/19/scalable-container-based-azure-pipelines-pools-with-azure-container-apps/)
 - [General availability: Azure DevOps September 2021 updates](https://www.razorspoint.com/2021/10/04/general-availability-azure-devops-september-2021-updates/)
 - [General availability: Azure DevOps August 2021 updates](https://www.razorspoint.com/2021/09/02/general-availability-azure-devops-august-2021-updates/)
 - [General availability: Azure DevOps updates for June 2021](https://www.razorspoint.com/2021/06/24/general-availability-azure-devops-updates-for-june-2021/)
 - [General availability: Azure DevOps Delivery Plans 2.0](https://www.razorspoint.com/2021/06/09/general-availability-azure-devops-delivery-plans-2-0/)
-- [General availability: Azure DevOps updates for May 2021](https://www.razorspoint.com/2021/05/11/general-availability-azure-devops-updates-for-may-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
