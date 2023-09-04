@@ -1,8 +1,8 @@
 Azure Nerd with focus on DevOps and AzureDevOps 🚀 
 
-* Organizer of [AzureMeetup Berlin](https://www.meetup.com/Berlin-Microsoft-Azure-Meetup) 
 * Maintainer of [PS module VSTEAM](https://github.com/MethodsAndPractices/vsteam)
- 
+* Former Organizer of [AzureMeetup Berlin](https://www.meetup.com/Berlin-Microsoft-Azure-Meetup)
+   
 ### Connect with me:
 
 [<img align="left" alt="razorspoint.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
