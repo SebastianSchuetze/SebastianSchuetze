@@ -33,7 +33,7 @@ Azure Nerd with focus on DevOps and AzureDevOps 🚀
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=razorspoint&repo=azuredevops-pnp-tasks&bg_color=000000&icon_color=aaaaaa&title_color=ffffff&text_color=aaaaaa)](https://github.com/RazorSPoint/azuredevops-pnp-tasks)
 
-### Maintainer in
+### Former Maintainer of
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MethodsAndPractices&repo=vsteam&bg_color=000000&icon_color=aaaaaa&title_color=ffffff&text_color=aaaaaa)](https://github.com/MethodsAndPractices/vsteam)
 
