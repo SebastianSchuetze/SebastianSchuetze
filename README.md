@@ -27,17 +27,6 @@ Azure Nerd with focus on DevOps and AzureDevOps 🚀
 
 ---
 
-## My Projects on GitHub
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=razorspoint&repo=azure-devops-azure-policy-extension&bg_color=000000&icon_color=aaaaaa&title_color=ffffff&text_color=aaaaaa)](https://github.com/RazorSPoint/azure-devops-azure-policy-extension)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=razorspoint&repo=azuredevops-pnp-tasks&bg_color=000000&icon_color=aaaaaa&title_color=ffffff&text_color=aaaaaa)](https://github.com/RazorSPoint/azuredevops-pnp-tasks)
-
-### Former Maintainer of
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MethodsAndPractices&repo=vsteam&bg_color=000000&icon_color=aaaaaa&title_color=ffffff&text_color=aaaaaa)](https://github.com/MethodsAndPractices/vsteam)
-
-
 [website]: https://razorspoint.com
 [twitter]: https://twitter.com/razorspoint
 [linkedin]: https://linkedin.com/in/sebastianschuetze
