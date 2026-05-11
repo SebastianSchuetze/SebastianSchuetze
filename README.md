@@ -7,9 +7,5 @@
 
 ---
 
-[![Sebastian Schützes github stats](https://github-readme-stats.vercel.app/api?username=SebastianSchuetze&count_private=true&show_icons=true&bg_color=000000&icon_color=aaaaaa&title_color=ffffff&text_color=aaaaaa)]
-
----
-
 [website]: https://razorspoint.com
 [linkedin]: https://linkedin.com/in/sebastianschuetze
